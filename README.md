@@ -1,7 +1,7 @@
 # SitemapStyle
 A way to make your sitemap look beautiful
 
-##How to use.
+## How to use.
 The end product https://darrenwelch.co.uk/sitemap/
 - If you would like to use this style on your own sitemap.  Simply add this code:
 
