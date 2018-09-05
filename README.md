@@ -5,7 +5,7 @@ A way to make your sitemap look beautiful
 The end product https://darrenwelch.co.uk/sitemap/
 - If you would like to use this style on your own sitemap.  Simply add this code:
 
-<pre>&lt;?xml-stylesheet type="text/xsl" href="/xsl/sitemap.xsl" ?&gt;</pre>
+<pre>&lt;?xml-stylesheet type="text/xsl" href="https:/darrenwelch.co.uk/xsl/sitemap.xsl" ?&gt;</pre>
 
 Directly under your &lt;?xml version='1.0' encoding='UTF-8' ?&gt;declaration
 
