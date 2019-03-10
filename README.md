@@ -1,5 +1,5 @@
 # SitemapStyle
-A way to make your sitemap look beautiful
+Improve the style of your sitemap
 
 ## How to use.
 The end product https://darrenwelch.co.uk/sitemap/
